@@ -10,4 +10,8 @@
 #tete{
     background-color: #303030;
     color: whitesmoke;
+    width: 100%;
+    border-bottom-color: gray;
+    border-bottom-style: solid ;
+    border-bottom-width: 1px ;
 }
