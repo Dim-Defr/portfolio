@@ -15,3 +15,13 @@
     border-bottom-style: solid ;
     border-bottom-width: 1px ;
 }
+#development{
+
+    width: 100%;
+    display: inline-block; 
+    float: left;
+}
+.dev{
+    width: auto;
+
+}
