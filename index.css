@@ -5,6 +5,9 @@
     margin-right: auto;
     text-align: center;
     font-family: 'Franklin Gothic Medium';
+    width: 100%;
+}
+#intro{
     width: 50%;
 }
 #tete{
@@ -17,11 +20,11 @@
 }
 #development{
 
-    width: 100%;
-    display: inline-block; 
-    float: left;
+    display: flex; 
+    flex-direction:row;
+    text-align: center;
+
 }
 .dev{
-    width: auto;
-
+    text-align: center;
 }
