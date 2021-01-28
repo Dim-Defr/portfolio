@@ -19,12 +19,11 @@
     border-bottom-width: 1px ;
 }
 #development{
-
     display: flex; 
-    flex-direction:row;
-    text-align: center;
-
+    justify-content: space-around;
 }
-.dev{
-    text-align: center;
+.dev img{
+    border-radius: 25px; 
+-moz-border-radius: 25px;
+-webkit-border-radius: 25px;
 }
