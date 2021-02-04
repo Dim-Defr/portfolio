@@ -27,3 +27,13 @@
 -moz-border-radius: 25px;
 -webkit-border-radius: 25px;
 }
+#reseau{
+    display: flex; 
+    justify-content: space-around;
+}
+.res img{
+    border-radius: 25px; 
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+
+}
