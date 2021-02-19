@@ -40,9 +40,21 @@
 .button_project{
     background-color: #131313;
     color: whitesmoke;
-    width: 150px;
+
     height: 50px;
     border-radius: 15px; 
     -moz-border-radius: 15px;
     -webkit-border-radius: 15px;
+}
+
+a:link {
+  color: orangered;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
 }
