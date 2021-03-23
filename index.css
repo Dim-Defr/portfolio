@@ -96,5 +96,24 @@ nav{
     padding-right: 10px;
     height: 100%;
 }
-
+#containerprojet{
+    text-align: center;
+    width: 100%;
+    display: flex; 
+    justify-content: space-around;
+}
+#challenge{
+    width: 50%;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+#ppe1{
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+#containerprojet img{
+    width: 100%;
+    height: auto;
+}
 
