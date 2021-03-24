@@ -115,5 +115,21 @@ nav{
 #containerprojet img{
     width: 100%;
     height: auto;
+    
 }
+#choix{
+    text-align: center;
+    width: 100%;
+    display: flex; 
+    justify-content: space-around;
+}
+#choix img{
+    width: 25%;
+    height: auto;
+    border-radius: 25px; 
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+
+}
+
 
