@@ -141,6 +141,9 @@ nav{
     margin: 0;
     padding: .3rem;
     background-color:#131313;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 #little{
 
