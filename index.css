@@ -144,9 +144,24 @@ nav{
     width: 75%;
     margin-left: auto;
     margin-right: auto;
+    border-bottom:solid 2px whitesmoke;
+    border-right: solid 2px whitesmoke;
+    border-left: solid 2px #6d6d6d;
+    border-top: solid 2px #6d6d6d;
+    margin-bottom: 10px;
 }
-#little{
-
+.little{
+    margin: 0;
+    padding: .6rem;
+    background-color:#000000;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom:solid 2px whitesmoke;
+    border-right: solid 2px whitesmoke;
+    border-left: solid 2px #3d3d3d;
+    border-top: solid 2px #3d3d3d;
+    margin-bottom: 10px;
 }
 
 
