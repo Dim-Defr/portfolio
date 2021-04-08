@@ -47,16 +47,14 @@ header{
     -webkit-border-radius: 25px;
 
 }
-.button_project{
-    background-color: #131313;
-    color: whitesmoke;
 
-    height: 50px;
-    border-radius: 15px; 
-    -moz-border-radius: 15px;
-    -webkit-border-radius: 15px;
+#logiciel{
+    display: flex; 
+    justify-content: space-around;
 }
+#outil{
 
+}
 a:link {
   color: orangered;
   background-color: transparent;
