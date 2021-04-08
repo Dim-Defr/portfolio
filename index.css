@@ -28,7 +28,7 @@ header{
     border-bottom-style: solid ;
     border-bottom-width: 1px ;
 }
-#development{
+.development{
     display: flex; 
     justify-content: space-around;
 }
